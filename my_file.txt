@@ -1,0 +1,6 @@
+Hello, my name is valary.
+Here is my age number: 21
+I am a student at power learn project africa.
+I am from Nairobi, Kenya.
+My tribe is Luhya which has sub tribes amounting to: 17
+Am happy to be in this program: Goodbye!
